@@ -28,7 +28,7 @@ angular
         controller: 'AboutCtrl'
       })
       .otherwise({
-        redirectTo: ''
+        redirectTo: '/'
       })
   })
   .config(function($httpProvider){
