@@ -5,10 +5,9 @@ Before starting, included is a checklist of git scenarios which should be comple
 
 ## Install:
 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] Fork the Repo
+- [ ] npm install
+- [ ] bower install
 
 ## Tasks:
 
