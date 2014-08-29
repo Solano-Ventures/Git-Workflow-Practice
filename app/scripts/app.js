@@ -29,5 +29,9 @@ angular
       })
       .otherwise({
         redirectTo: '/'
-      });
-  });
+      })
+  })
+  .config(function($httpProvider){
+    
+
+
