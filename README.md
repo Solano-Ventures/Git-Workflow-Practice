@@ -6,8 +6,13 @@ Before starting, included is a checklist of git scenarios which should be comple
 ## Install:
 
 - [ ] Fork the Repo
-- [ ] npm install
-- [ ] bower install
+- [ ] Clone down your fork
+- [ ] Install Grunt command line. 'npm install -g grunt-cli'
+  If you receive an error you may need to run the command as admin using sudo
+- [ ] 'npm install'
+- [ ] 'bower install'
+- [ ] Test that the page works with 'grunt serve'
+- [ ] If all loads correctly proceed to tasks. Otherwise please contact cmccloud
 
 ## Tasks:
 
